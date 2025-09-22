@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "tabSize": 3,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 60
+  }
+}

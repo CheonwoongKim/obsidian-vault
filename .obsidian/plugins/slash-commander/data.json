@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "confirmDeletion": true,
+  "showDescriptions": false,
+  "showSourcesForDuplicates": true,
+  "debug": false,
+  "mainTrigger": "/",
+  "extraTriggers": [],
+  "useExtraTriggers": false,
+  "triggerOnlyOnNewLine": false,
+  "queryPattern": {},
+  "bindings": [
+    {
+      "name": "Table",
+      "id": "editor:insert-table",
+      "action": "editor:insert-table",
+      "icon": "table-2",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Callout",
+      "id": "editor:insert-callout",
+      "action": "editor:insert-callout",
+      "icon": "indent",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Code",
+      "id": "editor:insert-codeblock",
+      "action": "editor:insert-codeblock",
+      "icon": "terminal",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Math",
+      "id": "editor:insert-mathblock",
+      "action": "editor:insert-mathblock",
+      "icon": "percent",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Embed",
+      "id": "editor:insert-embed",
+      "action": "editor:insert-embed",
+      "icon": "sticky-note",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Attachment",
+      "id": "editor:attach-file",
+      "action": "editor:attach-file",
+      "icon": "paperclip",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Property",
+      "id": "markdown:add-metadata-property",
+      "action": "markdown:add-metadata-property",
+      "icon": "plus-circle",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Admonition",
+      "id": "obsidian-admonition:insert-admonition",
+      "action": "obsidian-admonition:insert-admonition",
+      "icon": "indent",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "name": "Excalidraw",
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+      "action": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+      "icon": "image",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "children": []
+    },
+    {
+      "id": "e8bedc26-4a63-48e3-98cc-88a6489cd7ec",
+      "icon": "calendar",
+      "name": "Calendar",
+      "action": "insert-current-date",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "isGroup": false,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "main": {
+    "id": "55e76d6e4d7f3e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "9497ebf96378e71d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85cfd3769a4403ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/주요 매체 매출 현황.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "주요 매체 매출 현황"
+            }
+          },
+          {
+            "id": "b644e27d55d3a06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/시스템 플로우.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "시스템 플로우"
+            }
+          },
+          {
+            "id": "19391bb7ce147e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/Reference/TikTok Ads Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TikTok Ads Manager"
+            }
+          },
+          {
+            "id": "5779bb1f960950e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/DOCs/제품 요구사항.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "제품 요구사항"
+            }
+          },
+          {
+            "id": "5120000ba1a431dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/APIs/Meta Marketing API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta Marketing API"
+            }
+          },
+          {
+            "id": "8e8b47c5898503c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/Meta Ads 아웃풋 포맷.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta Ads 아웃풋 포맷"
+            }
+          },
+          {
+            "id": "b3e801f39ea01c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/💡 Backlog/백로그(Backlogs).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "백로그(Backlogs)"
+            }
+          },
+          {
+            "id": "4119523f5d11ec46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/Campaign State.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign State"
+            }
+          },
+          {
+            "id": "50387a11a957ee10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/Sprint_1/Sprint_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint_1"
+            }
+          },
+          {
+            "id": "030001bedc9e438b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코그넷나인/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/1.시장현황.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.시장현황"
+            }
+          },
+          {
+            "id": "cb6aa7104bfed255",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fast Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fast Session"
+            }
+          },
+          {
+            "id": "52d760562c809147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/에이전트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "에이전트"
+            }
+          },
+          {
+            "id": "17430fb1ea722c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/에이전트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "에이전트"
+            }
+          },
+          {
+            "id": "ada06e00af3ee1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/에이전트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "에이전트"
+            }
+          },
+          {
+            "id": "77ea101b96d6bc2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/회의록/20250508.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250508"
+            }
+          },
+          {
+            "id": "dd1e2f7e04258c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 1"
+            }
+          },
+          {
+            "id": "261db6877c3f41df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRD_MKTG/사업제안/생성형 AI 기반 마케팅 에이전트 솔루션.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "생성형 AI 기반 마케팅 에이전트 솔루션"
+            }
+          },
+          {
+            "id": "d0076a78b1850ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "계정 구조.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "계정 구조"
+            }
+          },
+          {
+            "id": "b697e088e03c3498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 2"
+            }
+          },
+          {
+            "id": "06d6d0c688e67644",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🤖 시스템 다이어그램.canvas",
+                "viewState": {
+                  "x": 1317.6649298239904,
+                  "y": -141.63008173004937,
+                  "zoom": -1.050359441673868
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "🤖 시스템 다이어그램"
+            }
+          },
+          {
+            "id": "746d5bde0b8b4e07",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "무제.canvas",
+                "viewState": {
+                  "x": 885,
+                  "y": 392.5,
+                  "zoom": -0.4303108529038606
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "무제"
+            }
+          },
+          {
+            "id": "652c7d9bfc569ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🙏🏻 개인/무제 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 5"
+            }
+          },
+          {
+            "id": "60db96cd6373eb81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "7f3c3aececf9f700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.브랜드 정보 확인.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.브랜드 정보 확인"
+            }
+          }
+        ],
+        "currentTab": 23
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c4c49f92b785939",
+    "type": "split",
+    "children": [
+      {
+        "id": "f176bb695efe3adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39566b91f8e420ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "95a44e3529ed6ae0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "490f042d5d5c6743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "643d55025df09a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb3e8852c427f763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0900df9533c2c400",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PRD_MKTG/Meta Ads 아웃풋 포맷.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Meta Ads 아웃풋 포맷 의 백링크"
+            }
+          },
+          {
+            "id": "220b7b200054fe60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LLM Compiler Prompt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LLM Compiler Prompt"
+            }
+          },
+          {
+            "id": "49573f5a2ea7186d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfbe3bf05fa24939",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PRD_MKTG/Meta Ads 아웃풋 포맷.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Meta Ads 아웃풋 포맷 의 개요"
+            }
+          },
+          {
+            "id": "f08817f0621657ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7f3c3aececf9f700",
+  "lastOpenFiles": [
+    "1.브랜드 정보 확인.md",
+    "무제 1.canvas",
+    "무제 5.md",
+    "🙏🏻 개인/무제 5.md",
+    "🙏🏻 개인/이력서_ver20250610.md",
+    "무제.canvas",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🤖 시스템 다이어그램.canvas",
+    "테스트.md",
+    "무제 4.md",
+    "무제 2.md",
+    "무제 3.md",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/12.입출력 데이터.md",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/8.캠페인 유형.md",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/9.가설 검증 설계.md",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/11.데이터 정의.md",
+    "코그넷나인/Meeting Note_20250714.md",
+    "무제 1.md",
+    "무제.md",
+    "계정 구조.md",
+    "PRD_MKTG/제품 포지셔닝.md",
+    "PRD_MKTG/제품 개요.md",
+    "PRD_MKTG/유즈케이스.md",
+    "PRD_MKTG/에이전트.md",
+    "PRD_MKTG/유사 및 경쟁 제품.md",
+    "PRD_MKTG/서비스 정책.md",
+    "PRD_MKTG/디지털 마케팅 프로세스.md",
+    "PRD_MKTG/디지털 마케팅 정의.md",
+    "PRD_MKTG/디지털 광고 유형별 매출 현황.md",
+    "PRD_MKTG/블루프린트.md",
+    "Images/Pasted image 20250716171539.png",
+    "Images/Pasted image 20250716161338.png",
+    "Images/Pasted image 20250716145501.png",
+    "Images/Pasted image 20250716160120.png",
+    "Images/Pasted image 20250716122618.png",
+    "코그넷나인",
+    "아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🎯 광고 구조.canvas",
+    "PRD_MKTG/Sprint_1",
+    "PRD_MKTG/💡 Backlog",
+    "PRD_MKTG/DOCs",
+    "Images/Pasted image 20250709135824.png",
+    "Images/Pasted image 20250709135121.png",
+    "코그넷나인/AI마케팅솔루션/무제.canvas",
+    "Images/스크린샷 2025-07-08 오후 6.17.39.png",
+    "Images/스크린샷 2025-07-08 오후 6.30.09.png",
+    "Images/스크린샷 2025-07-08 오후 6.29.37.png",
+    "PRD_MKTG/Reference",
+    "PRD_MKTG/사업제안",
+    "PRD_MKTG/APIs",
+    "Images",
+    "무제 2.canvas",
+    "무제 3.canvas",
+    "Meta Ads",
+    "PRD_MKTG",
+    "Untitled.canvas"
+  ]
+}
