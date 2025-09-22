@@ -37,18 +37,22 @@ updated: 2025-09-20
 
 ## 📋 Area 관리 체계
 
-### Frontmatter 표준 (권장)
+## 📋 Frontmatter 표준 순서
+
+모든 노트의 Frontmatter는 다음 표준 순서를 따릅니다. 자세한 내용은 [[Welcome.md#Frontmatter 사용 원칙]]을 참조하세요.
+
 ```yaml
-title: "[영역] 영역명"
-type: area                 # 고정 값
-status: active|inactive
-priority: P0|P1|P2|P3
-owner:                     # 선택
-area: 상위 카테고리         # 예: 디지털 마케팅, 금융 등
-tags: [area, 주제]
-review: monthly|quarterly|yearly
-next_review: YYYY-MM-DD
-updated: YYYY-MM-DD
+---
+title: # 노트의 제목 (필수)
+type: # 노트의 대분류 (예: guide, literature, project, area, resource, permanent)
+kind: # 노트의 소분류 (예: fleeting, reference - type이 literature일 경우)
+section: # 노트가 속한 섹션 (예: inbox - type이 guide일 경우)
+tags: # 관련 태그 목록
+status: # 노트의 현재 상태 (예: active, pending, done)
+date: # 노트 생성일 (YYYY-MM-DD)
+updated: # 노트 최종 수정일 (YYYY-MM-DD)
+# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+---
 ```
 
 ### 제목 규칙

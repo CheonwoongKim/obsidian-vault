@@ -1,8 +1,8 @@
 ---
+tags: [자료, 기술/SDK]
 title: "Google ADK 모듈 분석"
 type: resource
 category: AI 개발
-tags: [resource, sdk]
 updated: 2025-09-20
 ---
 

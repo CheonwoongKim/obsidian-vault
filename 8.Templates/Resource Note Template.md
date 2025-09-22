@@ -1,15 +1,16 @@
 ---
 title: "{{title}}"
 type: resource
+tags: [자료]
+status: active
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 category: 
-tags: [resource]
 source:
   title: 
   url: 
   author: 
   published: 
-status: active
-updated: {{date:YYYY-MM-DD}}
 ---
 
 # {{title}}
@@ -49,7 +50,7 @@ updated: {{date:YYYY-MM-DD}}
 - **최신성**: ⭐⭐⭐⭐⭐
 
 ## 태그
-#resource #
+ #자료 #
 
 ---
 

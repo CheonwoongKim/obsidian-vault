@@ -1,4 +1,5 @@
 ---
+tags: [프로젝트, 문서/기획안, 주제/regtech, 주제/신용, 프로젝트/aicms]
 title: "[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서"
 type: project
 kind: proposal
@@ -6,7 +7,6 @@ status: completed
 priority: P1
 owner: 
 area: 기업여신 자동화
-tags: [project, proposal, RegTech, credit, AICMS]
 start: 2025-09-20
 due: 
 updated: 2025-09-20
@@ -47,7 +47,7 @@ related:
 
 ### 메타데이터/분류 체계
 - frontmatter 예: `status(planning/active/on_hold)`, `priority(P0~P3)`, `stage(discovery/planning/build/launch)`
-- 문서 태그: `#doc/approval`, `#doc/opinion`, 컴플라이언스 태그: `#reg/basel`, `#reg/aml`
+- 문서 태그: ` #문서/결재`, ` #문서/의견`, 컴플라이언스 태그: ` #규제/Basel`, ` #규제/AML`
 
 ### IA To‑Do
 - 데이터 계보(Data Lineage)와 감사 추적 스키마 구체화

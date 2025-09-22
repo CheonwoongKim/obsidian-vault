@@ -1,3 +1,12 @@
+---
+title: "Inbox Guide"
+type: guide
+section: templates
+tags: [guide, inbox]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Inbox 폴더
 
 이 폴더는 새로운 아이디어, 정보, 생각들을 임시로 저장하는 공간입니다.

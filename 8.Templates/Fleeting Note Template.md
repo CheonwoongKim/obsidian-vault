@@ -2,10 +2,10 @@
 title: "{{title}}"
 type: literature
 kind: fleeting
+tags: [노트/임시]
 status: active
 date: {{date:YYYY-MM-DD}}
 updated: {{date:YYYY-MM-DD}}
-tags: [fleeting]
 ---
 
 
@@ -17,7 +17,7 @@ tags: [fleeting]
 -
 
 ## 태그
-#fleeting
+ #노트/임시
 
 ## 다음 단계
 - [ ] 이 메모를 더 발전시켜 Literature Note나 Permanent Note로 변환

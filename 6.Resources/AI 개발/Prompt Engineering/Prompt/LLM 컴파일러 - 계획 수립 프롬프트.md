@@ -1,8 +1,8 @@
 ---
+tags: [자료, prompt]
 title: "LLM 컴파일러 - 계획 수립 프롬프트"
 type: resource
 category: AI 개발/Prompt Engineering/Prompt
-tags: [resource, prompt]
 updated: 2025-09-20
 ---
 

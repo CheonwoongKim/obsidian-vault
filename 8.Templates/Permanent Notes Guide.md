@@ -1,3 +1,12 @@
+---
+title: "Permanent Notes Guide"
+type: guide
+section: templates
+tags: [guide, permanent]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Permanent Notes 폴더
 
 이 폴더는 제텔카스텐의 핵심인 영구 노트(Permanent Notes)를 보관하는 공간입니다.

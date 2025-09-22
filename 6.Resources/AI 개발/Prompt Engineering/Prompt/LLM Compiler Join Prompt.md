@@ -1,8 +1,8 @@
 ---
+tags: [자료, prompt]
 title: "LLM Compiler Join Prompt"
 type: resource
 category: AI 개발/Prompt Engineering/Prompt
-tags: [resource, prompt]
 updated: 2025-09-20
 ---
 

@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/데이터]
 title: "기업여신 AI - 데이터 요구사항 및 수집 전략"
 type: resource
 category: 기업여신 분석
-tags: [resource, data]
 updated: 2025-09-20
 ---
 

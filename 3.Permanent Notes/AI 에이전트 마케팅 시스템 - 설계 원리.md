@@ -1,8 +1,8 @@
 ---
+tags: [노트/영구, 주제/AI-마케팅, 설계/시스템]
 title: "AI 에이전트 마케팅 시스템 - 설계 원리"
 type: permanent
 status: active
-tags: [permanent, AI_marketing, system_design]
 created: 2025-01-20
 updated: 2025-01-20
 ---
@@ -145,7 +145,7 @@ AI 에이전트 마케팅 시스템은 기존의 도구 중심 접근법과 달�
 > "규제 준수 자동화는 AI 마케팅 시스템의 핵심 차별화 요소로, 기술적 성능만큼이나 법적 안전성이 시장 성공을 좌우한다."
 
 ## 태그
-#permanent #AI에이전트 #마케팅자동화 #마케팅시스템설계 #status/mature
+ #노트/영구  #주제/AI-에이전트  #주제/마케팅-자동화  #설계/마케팅-시스템  #상태/성숙
 
 ---
 

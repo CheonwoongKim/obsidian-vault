@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/워크플로우]
 title: "AI 워크플로우 빌더 솔루션 목록"
 type: resource
 category: AI 개발
-tags: [resource, workflow]
 updated: 2025-09-20
 ---
 

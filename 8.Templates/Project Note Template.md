@@ -2,13 +2,13 @@
 title: "{{title}}"
 type: project
 kind: project
+tags: [프로젝트]
 status: planned
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 priority: P2
 owner: 
 area: 
-tags: [project]
-created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
-updated: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 start: {{date:YYYY-MM-DD}}
 due: 
 related: []
@@ -77,7 +77,7 @@ related: []
 -
 
 ## 태그
-#project #
+ #프로젝트 #
 
 ---
 

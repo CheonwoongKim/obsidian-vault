@@ -2,10 +2,10 @@
 title: "{{title}}"
 type: literature
 kind: analysis
+tags: [노트/문헌]
 status: processing
 date: {{date:YYYY-MM-DD}}
 updated: {{date:YYYY-MM-DD}}
-tags: [literature]
 source:
   title: 
   url: 
@@ -40,7 +40,7 @@ source:
 -
 
 ## 태그
-#literature #
+ #노트/문헌 #
 
 ---
 

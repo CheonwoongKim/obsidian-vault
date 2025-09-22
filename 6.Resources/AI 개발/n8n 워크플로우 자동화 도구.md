@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/자동화]
 title: "n8n 워크플로우 자동화 도구"
 type: resource
 category: AI 개발
-tags: [resource, automation]
 updated: 2025-09-20
 ---
 

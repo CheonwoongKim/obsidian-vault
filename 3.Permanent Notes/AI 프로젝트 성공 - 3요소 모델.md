@@ -1,8 +1,8 @@
 ---
+tags: [노트/영구, 주제/AI-전략, 프로젝트/성공, 주제/비즈니스-전략]
 title: "AI 프로젝트 성공 - 3요소 모델"
 type: permanent
 status: active
-tags: [permanent, AI_strategy, project_success, business_strategy]
 created: 2025-09-20
 updated: 2025-09-20
 ---

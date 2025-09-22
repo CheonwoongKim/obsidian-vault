@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/시장]
 title: "MarTech 시장 분석 및 기회"
 type: resource
 category: AI 마케팅 에이전트/시장 조사
-tags: [resource, market]
 updated: 2025-09-21
 ---
 
@@ -269,5 +269,5 @@ updated: 2025-09-21
 - 기업 규모별 MarTech 스택 최적화 방안
 - ABM 전략이 B2B MarTech 시장에 미치는 구체적 영향 분석
 
-#resource #MarTech시장 #시장분석 #AI마케팅 #비즈니스기회 #status/collecting
+ #자료  #주제/martech #주제/시장  #주제/시장-분석  #주제/AI-마케팅  #주제/비즈니스-기회  #상태/수집중
 생성일: [[2025-01-20]]

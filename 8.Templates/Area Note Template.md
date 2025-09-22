@@ -1,14 +1,15 @@
 ---
 title: "{{title}}"
 type: area
+tags: [영역]
 status: active
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
 priority: P2
 owner: 
 area: 
-tags: [area]
 review: monthly
 next_review: 
-updated: {{date:YYYY-MM-DD}}
 ---
 
 
@@ -58,7 +59,7 @@ updated: {{date:YYYY-MM-DD}}
 -
 
 ## 태그
-#area #
+ #영역 #
 
 ---
 

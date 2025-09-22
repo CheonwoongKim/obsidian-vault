@@ -1,4 +1,5 @@
 ---
+tags: [프로젝트, 문서/기획안, 주제/AI-마케팅, 프로젝트/co9ma]
 title: "[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서"
 type: project
 kind: proposal
@@ -6,7 +7,6 @@ status: completed
 priority: P1
 owner: 
 area: 마케팅 자동화
-tags: [project, proposal, AI_marketing, CO9MA]
 start: 2025-09-20
 due: 
 updated: 2025-09-20
@@ -48,7 +48,7 @@ related:
 
 ### 메타데이터/분류 체계
 - frontmatter 예: `status(planning/active/on_hold)`, `priority(P0~P3)`, `stage(discovery/planning/build/launch)`
-- 캠페인 태그: `#campaign`, `#channel/google|meta|naver`, `#kpi/roas|cvr`
+- 캠페인 태그: ` #주제/캠페인`, ` #채널/google|meta|naver`, ` #지표/ROAS|cvr`
 
 ### IA To‑Do
 - 사용자 시나리오 기준 내비게이션 라벨 검증
@@ -187,7 +187,7 @@ CO9MA의 핵심은 **인간 마케터의 사고 과정을 모방한 AI 에이전
   },
   "brand_guidelines": {
     "tone_voice": "string", // "professional", "friendly", "innovative"
-    "visual_style": "object", // {"colors": ["#FF6B6B", "#4ECDC4"], "style": "modern"}
+    "visual_style": "object", // {"colors": [" #FF6B6B", " #4ECDC4"], "style": "modern"}
     "restrictions": "array" // ["no_discount_emphasis", "no_comparison_ads"]
   }
 }
@@ -277,7 +277,7 @@ CO9MA의 핵심은 **인간 마케터의 사고 과정을 모방한 AI 에이전
   },
   "brand_assets": {
     "logo_variations": "array", // 로고 파일들
-    "color_palette": "object", // {"primary": "#FF6B6B", "secondary": "#4ECDC4"}
+    "color_palette": "object", // {"primary": " #FF6B6B", "secondary": " #4ECDC4"}
     "typography": "object", // {"primary": "Roboto", "secondary": "Arial"}
     "image_style": "string", // "minimalist", "vibrant", "corporate"
     "voice_guidelines": "object" // 브랜드 보이스 가이드라인

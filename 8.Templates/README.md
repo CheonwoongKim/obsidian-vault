@@ -34,6 +34,24 @@ updated: 2025-09-20
 - 첨부파일 정책: [[9.Attachments/README.md]]
 - 전체 시스템 개요: [[Welcome.md]]
 
+## 📋 Frontmatter 표준 순서
+
+모든 노트의 Frontmatter는 다음 표준 순서를 따릅니다. 자세한 내용은 [[Welcome.md#Frontmatter 사용 원칙]]을 참조하세요.
+
+```yaml
+---
+title: # 노트의 제목 (필수)
+type: # 노트의 대분류 (예: guide, literature, project, area, resource, permanent)
+kind: # 노트의 소분류 (예: fleeting, reference - type이 literature일 경우)
+section: # 노트가 속한 섹션 (예: inbox - type이 guide일 경우)
+tags: # 관련 태그 목록
+status: # 노트의 현재 상태 (예: active, pending, done)
+date: # 노트 생성일 (YYYY-MM-DD)
+updated: # 노트 최종 수정일 (YYYY-MM-DD)
+# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+---
+```
+
 ---
 
 "일관된 템플릿은 빠른 기록과 쉬운 유지보수를 돕습니다."

@@ -1,8 +1,8 @@
 ---
+tags: [자료, 상태/마스터, 설계/아키텍처]
 title: "[마스터] 마케팅 AI 기술 아키텍처 명세서"
 type: resource
 category: AI 마케팅 에이전트/사양 및 설계
-tags: [resource, master, architecture]
 updated: 2025-09-20
 ---
 

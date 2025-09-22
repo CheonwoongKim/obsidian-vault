@@ -1,3 +1,12 @@
+---
+title: "Literature Notes Guide"
+type: guide
+section: templates
+tags: [guide, literature]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Literature Notes 폴더
 
 이 폴더는 제텔카스텐의 다양한 노트 유형을 보관하는 공간입니다.

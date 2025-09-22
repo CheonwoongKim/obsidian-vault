@@ -34,19 +34,22 @@ updated: 2025-09-20
 | **목적** | 참고/수집 | 구체적 실행 | 수준 유지 |
 | **활용도** | 잠재적 | 즉시 필요 | 정기적 |
 
-## Frontmatter 표준 (권장)
+## 📋 Frontmatter 표준 순서
+
+모든 노트의 Frontmatter는 다음 표준 순서를 따릅니다. 자세한 내용은 [[Welcome.md#Frontmatter 사용 원칙]]을 참조하세요.
+
 ```yaml
-title: "자료 제목"
-type: resource            # 고정 값
-category: 상위폴더/하위폴더  # 예: "AI 마케팅 에이전트/기획"
-tags: [resource, 주제]     # 예: [resource, market, tools]
-source:                    # 선택: 출처 메타데이터
-  title: "원문 제목"
-  url: "https://..."
-  author: "작성자/기관"
-  published: YYYY-MM-DD
-status: active|archived    # 선택
-updated: YYYY-MM-DD        # 최근 갱신일
+---
+title: # 노트의 제목 (필수)
+type: # 노트의 대분류 (예: guide, literature, project, area, resource, permanent)
+kind: # 노트의 소분류 (예: fleeting, reference - type이 literature일 경우)
+section: # 노트가 속한 섹션 (예: inbox - type이 guide일 경우)
+tags: # 관련 태그 목록
+status: # 노트의 현재 상태 (예: active, pending, done)
+date: # 노트 생성일 (YYYY-MM-DD)
+updated: # 노트 최종 수정일 (YYYY-MM-DD)
+# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+---
 ```
 
 ## 📁 현재 Resource 구조
@@ -112,7 +115,7 @@ updated: YYYY-MM-DD        # 최근 갱신일
 - 언제, 어떤 상황에서 활용할 것인지
 
 ## 태그
-#resource #카테고리명 #주제명
+ #자료  #카테고리명  #주제명
 ```
 
 ## 🔄 활용 및 이동 패턴

@@ -1,3 +1,12 @@
+---
+title: "Resources Guide"
+type: guide
+section: templates
+tags: [guide, resources]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Resources 폴더
 
 Resources는 미래에 유용할 수 있는 주제별 참고 자료를 담는 공간입니다.

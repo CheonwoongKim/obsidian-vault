@@ -1,9 +1,9 @@
 ---
 title: "{{title}}"
 type: permanent
+tags: [노트/영구]
 status: active
-tags: [permanent]
-created: {{date:YYYY-MM-DD}}
+date: {{date:YYYY-MM-DD}}
 updated: {{date:YYYY-MM-DD}}
 ---
 
@@ -29,7 +29,7 @@ updated: {{date:YYYY-MM-DD}}
 <!-- 이 아이디어를 어떻게 더 발전시킬 수 있는가? -->
 
 ## 태그
-#permanent #
+ #노트/영구 #
 
 ---
 

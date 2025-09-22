@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/데이터-흐름]
 title: "마케팅 AI - 데이터 흐름 및 통합 설계"
 type: resource
 category: AI 마케팅 에이전트/사양 및 설계
-tags: [resource, data_flow]
 updated: 2025-09-20
 ---
 

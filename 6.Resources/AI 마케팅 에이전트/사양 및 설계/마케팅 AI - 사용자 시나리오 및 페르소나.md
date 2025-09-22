@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/페르소나]
 title: "마케팅 AI - 사용자 시나리오 및 페르소나"
 type: resource
 category: AI 마케팅 에이전트/사양 및 설계
-tags: [resource, persona]
 updated: 2025-09-20
 ---
 

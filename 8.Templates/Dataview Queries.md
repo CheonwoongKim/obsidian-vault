@@ -1,6 +1,8 @@
 ---
 title: "Dataview 쿼리 스니펫 모음"
 type: guide
+tags: [guide, dataview]
+date: {{date:YYYY-MM-DD}}
 updated: 2025-09-20
 ---
 

@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/은행-시스템]
 title: "IBK 여신 관리 시스템 분석"
 type: resource
 category: 기업여신 분석
-tags: [resource, bank_system]
 updated: 2025-09-20
 ---
 

@@ -1,3 +1,12 @@
+---
+title: "Attachments Guide"
+type: guide
+section: templates
+tags: [guide, attachments]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Attachments 폴더 (요약 가이드)
 
 이 문서는 템플릿 사용자용 요약입니다. 정책의 단일 진실원천은 [[9.Attachments/README.md]]입니다.

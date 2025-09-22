@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/여신, 주제/모델링]
 title: "기업여신 AI - 모델 학습 및 검증 계획"
 type: resource
 category: 기업여신 분석
-tags: [resource, loan, modeling]
 updated: 2025-09-20
 ---
 

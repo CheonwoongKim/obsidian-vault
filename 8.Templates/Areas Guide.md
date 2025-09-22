@@ -1,3 +1,12 @@
+---
+title: "Areas Guide"
+type: guide
+section: templates
+tags: [guide, areas]
+date: {{date:YYYY-MM-DD}}
+updated: {{date:YYYY-MM-DD}}
+---
+
 # Areas 폴더
 
 Areas는 지속적으로 관리해야 하는 책임 영역이나 관심사를 담는 공간입니다.

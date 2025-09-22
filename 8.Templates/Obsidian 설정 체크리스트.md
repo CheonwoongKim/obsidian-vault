@@ -1,6 +1,8 @@
 ---
 title: "Obsidian 설정 체크리스트"
 type: guide
+tags: [guide, obsidian, settings]
+date: {{date:YYYY-MM-DD}}
 updated: 2025-09-20
 ---
 

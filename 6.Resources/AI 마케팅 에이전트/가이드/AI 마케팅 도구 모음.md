@@ -1,8 +1,8 @@
 ---
+tags: [자료, 도구]
 title: "AI 마케팅 도구 모음"
 type: resource
 category: AI 마케팅 에이전트/가이드
-tags: [resource, tools]
 updated: 2025-09-21
 ---
 
@@ -245,5 +245,5 @@ updated: 2025-09-21
 - 같은 과제를 서로 다른 AI 도구로 수행했을 때 결과 차이
 - 도구 사용 숙련도가 마케팅 성과에 미치는 영향 정도
 
-#resource #AI도구 #마케팅자동화 #디지털마케팅 #status/collecting
+ #자료  #도구/AI  #주제/마케팅-자동화  #주제/디지털-마케팅  #상태/수집중
 생성일: [[2025-01-20]]

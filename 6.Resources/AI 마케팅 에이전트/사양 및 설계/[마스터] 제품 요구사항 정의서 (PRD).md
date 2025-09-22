@@ -1,8 +1,8 @@
 ---
+tags: [자료, 상태/마스터, 문서/PRD]
 title: "[마스터] 제품 요구사항 정의서 (PRD)"
 type: resource
 category: AI 마케팅 에이전트/사양 및 설계
-tags: [resource, master, prd]
 updated: 2025-09-20
 ---
 

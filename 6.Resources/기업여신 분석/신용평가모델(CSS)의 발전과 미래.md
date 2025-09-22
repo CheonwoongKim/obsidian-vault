@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/신용스코어링]
 title: "신용평가모델(CSS)의 발전과 미래"
 type: resource
 category: 기업여신 분석
-tags: [resource, credit_scoring]
 updated: 2025-09-20
 ---
 

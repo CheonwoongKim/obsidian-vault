@@ -1,8 +1,8 @@
 ---
+tags: [자료, 주제/실험]
 title: "A:B 테스트 - AI 에이전트 효과성 검증 설계"
 type: resource
 category: AI 마케팅 에이전트/사양 및 설계
-tags: [resource, experiment]
 updated: 2025-09-20
 ---
 

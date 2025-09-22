@@ -1,8 +1,8 @@
 ---
+tags: [자료, prompt]
 title: "Manus 에이전트 - 운영 원리"
 type: resource
 category: AI 개발/Prompt Engineering/Prompt
-tags: [resource, prompt]
 updated: 2025-09-20
 ---
 

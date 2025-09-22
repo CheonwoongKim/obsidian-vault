@@ -1,4 +1,5 @@
 ---
+tags: [프로젝트, 주제/여신, 주제/regtech]
 title: "[프로젝트] AI 기업여신 심사 자동화 - 기획중"
 type: project
 kind: project
@@ -6,7 +7,6 @@ status: completed
 priority: P1
 owner: 
 area: 기업여신 자동화
-tags: [project, loan, RegTech]
 start: 2025-09-20
 due: 
 updated: 2025-09-20
@@ -95,7 +95,7 @@ related:
 - 생성형 AI 기반 심사의견서 초안 자동 생성 시스템
 
 ## 태그
-#project #Loan_Automation #AI_Finance
+ #프로젝트  #주제/여신-자동화  #주제/AI-금융
 
 ---
 

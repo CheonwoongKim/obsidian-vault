@@ -17,13 +17,13 @@ updated: 2025-09-20
 - 잠깐 떠오른 생각이나 감정
 - 완성되지 않은 아이디어 조각
 - 나중에 발전시킬 예정인 초안
-- **태그**: `#fleeting`
+- **태그**: ` #노트/임시`
 
 ### 📂 Reference/ - 사실과 데이터
 - 통계, 수치, 날짜 등 객관적 정보
 - 인용 가능한 사실들
 - 나중에 참조할 데이터
-- **태그**: `#reference`
+- **태그**: ` #참고`
 
 ### 📁 메인 폴더 - 개인적 해석
 - 책, 논문, 기사를 읽고 나만의 언어로 정리
@@ -32,20 +32,22 @@ updated: 2025-09-20
 
 ## 📝 작성 가이드
 
-### Frontmatter 표준 (권장)
+## 📋 Frontmatter 표준 순서
+
+모든 노트의 Frontmatter는 다음 표준 순서를 따릅니다. 자세한 내용은 [[Welcome.md#Frontmatter 사용 원칙]]을 참조하세요.
+
 ```yaml
-title: "노트 제목"
-type: literature            # 고정 값
-kind: analysis|reference|fleeting
-status: active|processing|finalized
-date: YYYY-MM-DD            # 작성일
-updated: YYYY-MM-DD         # 최근 갱신일
-tags: [literature, 주제]
-source:                     # 선택: 출처 메타데이터
-  title: "원문 제목"
-  url: "https://..."
-  author: "저자/기관"
-  published: YYYY-MM-DD
+---
+title: # 노트의 제목 (필수)
+type: # 노트의 대분류 (예: guide, literature, project, area, resource, permanent)
+kind: # 노트의 소분류 (예: fleeting, reference - type이 literature일 경우)
+section: # 노트가 속한 섹션 (예: inbox - type이 guide일 경우)
+tags: # 관련 태그 목록
+status: # 노트의 현재 상태 (예: active, pending, done)
+date: # 노트 생성일 (YYYY-MM-DD)
+updated: # 노트 최종 수정일 (YYYY-MM-DD)
+# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+---
 ```
 
 ### Literature Notes 4단계 작성법
