@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Attachments/README.md",
+                "file": "1.Inbox/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,7 +33,7 @@
       {
         "id": "2902686439a96aa7",
         "type": "tabs",
-        "dimension": 73.02025782688766,
+        "dimension": 59.576427255985266,
         "children": [
           {
             "id": "be43db08123af8ad",
@@ -80,7 +80,7 @@
       {
         "id": "e970454a80627144",
         "type": "tabs",
-        "dimension": 26.979742173112335,
+        "dimension": 40.423572744014734,
         "children": [
           {
             "id": "126e16a8e69e9587",
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 208.5
   },
   "right": {
     "id": "ca774989e8565ce4",
@@ -234,20 +234,33 @@
       "translate:Open translation view": false,
       "file-cleaner-redux:Clean files": false,
       "cmdr:다른 폴더로 파일 이동": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0951c5f0209daa5c",
   "lastOpenFiles": [
-    "무제.canvas",
-    "9.Attachments/README.md",
+    "3.Permanent Notes/MOCs/MOC - AI Development.md",
+    "3.Permanent Notes/MOCs/MOC - 금융AI RegTech.md",
+    "2.Literature Notes/README.md",
+    "3.Permanent Notes/MOCs/MOC - RegTech.md",
+    "3.Permanent Notes/MOCs/MOC - Prompt Engineering.md",
     "3.Permanent Notes/MOCs/MOC - AI 마케팅.md",
     "3.Permanent Notes/MOCs/MOC - 기업여신.md",
+    "6.Resources/기업여신 분석/기업여신 AI - 모델 학습 및 검증 계획.md",
+    "6.Resources/기업여신 분석/기업여신 AI - 데이터 요구사항 및 수집 전략.md",
+    "6.Resources/기업여신 분석/기업여신 심사 및 평가 방법론.md",
+    "6.Resources/기업여신 분석/국내 여신 시장 참고자료.md",
+    "6.Resources/기업여신 분석/[마스터] 기술 아키텍처 명세서.md",
+    "7.Archive/4.projects/2025/[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서.md",
     "7.Archive/4.projects/2025/[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서.md",
+    "8.Templates/Attachments Guide.md",
+    "8.Templates/Areas Guide.md",
+    "8.Templates/Area Note Template.md",
+    "9.Attachments/README.md",
+    "무제.canvas",
     "frontmatter_duplicate_remover.py",
     "6.Resources/AI 마케팅 에이전트/사양 및 설계/[마스터] 제품 요구사항 정의서 (PRD).md.tmp.64651.1758419340120",
-    "7.Archive/4.projects/2025/[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서.md",
-    "6.Resources/기업여신 분석/[마스터] 기술 아키텍처 명세서.md",
     "6.Resources/AI 마케팅 에이전트/시장 조사/시장 포지셔닝 및 경쟁 제품 분석.md",
     "6.Resources/AI 마케팅 에이전트/가이드/디지털 마케팅 유형 분류.md",
     "6.Resources/AI 마케팅 에이전트/가이드/AI 마케팅 도구 모음.md",
@@ -257,18 +270,7 @@
     "6.Resources/AI 마케팅 에이전트/사양 및 설계/마케팅 AI - 사용자 시나리오 및 페르소나.md",
     "6.Resources/AI 마케팅 에이전트/사양 및 설계/마케팅 AI - 데이터 흐름 및 통합 설계.md",
     "6.Resources/AI 마케팅 에이전트/사양 및 설계/[마스터] 제품 요구사항 정의서 (PRD).md",
-    "6.Resources/AI 마케팅 에이전트/사양 및 설계/[마스터] 마케팅 AI 기술 아키텍처 명세서.md",
     "6.Resources/AI 마케팅 에이전트/사양 및 설계",
-    "6.Resources/기업여신 분석/README.md",
-    "5.Areas/[영역] 디지털 마케팅 역량 개발.md",
-    "3.Permanent Notes/MOCs/MOC - Prompt Engineering.md",
-    "Welcome.md",
-    "6.Resources/AI 개발/README.md",
-    "6.Resources/AI 마케팅 에이전트/README.md",
-    "6.Resources/AI 마케팅 에이전트/시장 조사/MarTech 시장 분석 및 기회.md",
-    "6.Resources/AI 마케팅 에이전트/기획/AI 마케팅 도구 모음.md",
-    "6.Resources/AI 마케팅 에이전트/기획/디지털 마케팅 채널 가이드.md",
-    "8.Templates/Obsidian 설정 체크리스트.md",
     "3.Permanent Notes/MOCs",
     "5.Areas/System",
     "7.Archive/7.literature",

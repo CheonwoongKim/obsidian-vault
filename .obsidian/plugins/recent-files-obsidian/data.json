@@ -2,35 +2,59 @@
   "recentFiles": [
     {
       "basename": "README",
-      "path": "9.Attachments/README.md"
+      "path": "1.Inbox/README.md"
     },
     {
-      "basename": "MOC - AI 마케팅",
-      "path": "3.Permanent Notes/MOCs/MOC - AI 마케팅.md"
+      "basename": "README",
+      "path": "2.Literature Notes/README.md"
     },
     {
-      "basename": "MOC - 기업여신",
-      "path": "3.Permanent Notes/MOCs/MOC - 기업여신.md"
+      "basename": "기업여신 AI - 모델 학습 및 검증 계획",
+      "path": "6.Resources/기업여신 분석/기업여신 AI - 모델 학습 및 검증 계획.md"
     },
     {
-      "basename": "[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서",
-      "path": "7.Archive/4.projects/2025/[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서.md"
+      "basename": "기업여신 AI - 데이터 요구사항 및 수집 전략",
+      "path": "6.Resources/기업여신 분석/기업여신 AI - 데이터 요구사항 및 수집 전략.md"
     },
     {
-      "basename": "[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서",
-      "path": "7.Archive/4.projects/2025/[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서.md"
+      "basename": "기업여신 심사 및 평가 방법론",
+      "path": "6.Resources/기업여신 분석/기업여신 심사 및 평가 방법론.md"
+    },
+    {
+      "basename": "국내 여신 시장 참고자료",
+      "path": "6.Resources/기업여신 분석/국내 여신 시장 참고자료.md"
     },
     {
       "basename": "[마스터] 기술 아키텍처 명세서",
       "path": "6.Resources/기업여신 분석/[마스터] 기술 아키텍처 명세서.md"
     },
     {
-      "basename": "[영역] 디지털 마케팅 역량 개발",
-      "path": "5.Areas/[영역] 디지털 마케팅 역량 개발.md"
+      "basename": "[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서",
+      "path": "7.Archive/4.projects/2025/[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서.md"
     },
     {
-      "basename": "MOC - Prompt Engineering",
-      "path": "3.Permanent Notes/MOCs/MOC - Prompt Engineering.md"
+      "basename": "[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서",
+      "path": "7.Archive/4.projects/2025/[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서.md"
+    },
+    {
+      "basename": "Attachments Guide",
+      "path": "8.Templates/Attachments Guide.md"
+    },
+    {
+      "basename": "Areas Guide",
+      "path": "8.Templates/Areas Guide.md"
+    },
+    {
+      "basename": "Area Note Template",
+      "path": "8.Templates/Area Note Template.md"
+    },
+    {
+      "basename": "README",
+      "path": "9.Attachments/README.md"
+    },
+    {
+      "basename": "[영역] 디지털 마케팅 역량 개발",
+      "path": "5.Areas/[영역] 디지털 마케팅 역량 개발.md"
     },
     {
       "basename": "Welcome",
@@ -55,22 +79,6 @@
     {
       "basename": "신용평가모델(CSS)의 발전과 미래",
       "path": "6.Resources/기업여신 분석/신용평가모델(CSS)의 발전과 미래.md"
-    },
-    {
-      "basename": "기업여신 AI - 모델 학습 및 검증 계획",
-      "path": "6.Resources/기업여신 분석/기업여신 AI - 모델 학습 및 검증 계획.md"
-    },
-    {
-      "basename": "기업여신 AI - 데이터 요구사항 및 수집 전략",
-      "path": "6.Resources/기업여신 분석/기업여신 AI - 데이터 요구사항 및 수집 전략.md"
-    },
-    {
-      "basename": "국내 여신 시장 참고자료",
-      "path": "6.Resources/기업여신 분석/국내 여신 시장 참고자료.md"
-    },
-    {
-      "basename": "기업여신 심사 및 평가 방법론",
-      "path": "6.Resources/기업여신 분석/기업여신 심사 및 평가 방법론.md"
     },
     {
       "basename": "n8n 워크플로우 자동화 도구",
@@ -117,16 +125,8 @@
       "path": "6.Resources/AI 마케팅 에이전트/시장 조사/디지털 광고 유형별 매출 현황.md"
     },
     {
-      "basename": "Areas Guide",
-      "path": "8.Templates/Areas Guide.md"
-    },
-    {
       "basename": "뉴미디어 광고 추이",
       "path": "6.Resources/AI 마케팅 에이전트/시장 조사/뉴미디어 광고 추이.md"
-    },
-    {
-      "basename": "Area Note Template",
-      "path": "8.Templates/Area Note Template.md"
     },
     {
       "basename": "Fleeting Note Template",

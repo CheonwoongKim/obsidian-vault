@@ -7,10 +7,6 @@ last_modified: 2025-09-21
 
 # 🧠 제텔카스텐 + PARA 실용 가이드
 
-**시스템 버전**: v3.2 | **최종 수정일**: 2025-09-21
-
----
-
 ## 📖 방법론 간단 소개
 
 ### 🔬 제텔카스텐 (Zettelkasten)
@@ -703,11 +699,24 @@ Make It Stick, 3장 "인출의 힘"
 - [[5.Areas/System/Dashboard - Archive Candidates.md|Archive & Promotion Candidates]]: 승격/보관 후보 자동 집계 (Literature, Resources, Areas)
 - [[5.Areas/System/Dashboard - Monthly Review.md|Monthly Review]]: 월간 점검(Areas/목표, 이번 달 마감 프로젝트, 신규/갱신 노트)
 
-### 🗺️ MOC 허브
-- [[3.Permanent Notes/MOCs/MOC - AI 마케팅.md|MOC - AI 마케팅]]
-- [[3.Permanent Notes/MOCs/MOC - 기업여신.md|MOC - 기업여신]]
-- [[3.Permanent Notes/MOCs/MOC - Prompt Engineering.md|MOC - Prompt Engineering]]
-- [[3.Permanent Notes/MOCs/MOC - RegTech.md|MOC - RegTech]]
+### 💎 핵심 Permanent Notes
+- [[3.Permanent Notes/AI 에이전트 마케팅 시스템 - 설계 원리.md|AI 에이전트 마케팅 시스템 - 설계 원리]] - 마케팅 자동화의 핵심 개념
+- [[3.Permanent Notes/마케팅 자동화 - 3단계 프로세스.md|마케팅 자동화 - 3단계 프로세스]] - 체계적 마케팅 접근법
+- [[3.Permanent Notes/AI 프로젝트 성공 - 3요소 모델.md|AI 프로젝트 성공 - 3요소 모델]] - AI 프로젝트 성공 방법론
+
+### 🔗 노트 연결 가이드 (제텔카스텐 방식)
+
+#### **자연스러운 링크 네트워크 만들기**
+1. **노트 작성 시 연결 탐색**: 새 노트를 작성할 때 항상 기존 노트와의 연결점을 찾기
+2. **양방향 연결**: A→B 링크를 만들었다면 B→A 연결도 고려하기
+3. **다층 연결**: 직접 관련 뿐만 아니라 간접적 관련성도 연결하기
+4. **연결 이유 명시**: 단순 링크가 아닌 연결 이유를 짧게 설명하기
+
+#### **연결 발견 방법**
+- **태그 활용**: 동일 태그를 가진 노트들 간 연결 탐색
+- **키워드 검색**: Obsidian 검색 기능으로 관련 노트 발견
+- **정기 리뷰**: 주간/월간 정리 시간에 연결 가능성 탐색
+- **역링크 확인**: 기존 노트의 역링크에서 새로운 연결점 발견
 
 ### 🏷️ 태그 가이드
 - [[8.Templates/Tags - Style Guide.md|Tags - Style Guide]]

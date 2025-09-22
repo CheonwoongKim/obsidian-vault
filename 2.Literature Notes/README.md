@@ -7,10 +7,6 @@ updated: 2025-09-20
 
 # 📝 2.Literature Notes - 지식 가공소
 
-**태그**: #system-guide #literature-notes
-
----
-
 ## 📖 폴더 목적
 
 2.Literature Notes는 **외부 소스의 정보를 개인적 지식으로 변환**하는 핵심 공간입니다. 제텔카스텐 시스템의 두 번째 단계로, 원본 정보에 자신만의 해석과 연결을 추가합니다.
