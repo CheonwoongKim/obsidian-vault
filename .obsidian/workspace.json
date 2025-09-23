@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0951c5f0209daa5c",
+            "id": "4b4ba688c9812787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Permanent Notes/다중 의도 프롬프트 엔지니어링.md",
+                "file": "6.Resources/Active-Prompt 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "다중 의도 프롬프트 엔지니어링"
+              "title": "Active-Prompt 기법"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "2902686439a96aa7",
         "type": "tabs",
-        "dimension": 59.576427255985266,
+        "dimension": 81.58379373848987,
         "children": [
           {
             "id": "be43db08123af8ad",
@@ -74,13 +74,23 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "d199d3de3dba30fc",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
         ]
       },
       {
         "id": "e970454a80627144",
         "type": "tabs",
-        "dimension": 40.423572744014734,
+        "dimension": 18.41620626151013,
         "children": [
           {
             "id": "126e16a8e69e9587",
@@ -96,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 304.5
   },
   "right": {
     "id": "ca774989e8565ce4",
@@ -160,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/03.Reference.md",
+                "file": "6.Resources/Active-Prompt 기법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03.Reference 의 개요"
+              "title": "Active-Prompt 기법 의 개요"
             }
           },
           {
@@ -211,13 +221,23 @@
               "icon": "video",
               "title": "Timestamp Video"
             }
+          },
+          {
+            "id": "e7e6ad7d36185970",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 623.5,
+    "width": 461.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -238,45 +258,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be43db08123af8ad",
+  "active": "4b4ba688c9812787",
   "lastOpenFiles": [
-    "3.Permanent Notes/마케팅 자동화 - 3단계 프로세스.md",
-    "3.Permanent Notes/AI 에이전트 마케팅 시스템 - 설계 원리.md",
-    "3.Permanent Notes/AI 프로젝트 성공 - 3요소 모델.md",
-    "3.Permanent Notes/다중 의도 프롬프트 엔지니어링.md",
-    "Welcome.md",
-    "2.Literature Notes/다중 의도 프롬프트 엔지니어링.md",
-    "1.Inbox/다중 의도 프롬프트 엔지니어링.md",
-    "1.Inbox/다중의도_프롬프트_엔지니어링_0922.md",
+    "6.Resources/Graph Prompting.md",
+    "6.Resources/Program-Aided Language Models (PAL) 프롬프팅.md",
+    "6.Resources/Automatic Prompt Engineer (APE) 프롬프팅.md",
+    "6.Resources/Automatic Reasoning and Tool-use (ART) 프롬프팅.md",
+    "6.Resources/Retrieval Augmented Generation (RAG) 프롬프팅.md",
+    "6.Resources/Zero-shot & Few-shot 프롬프팅.md",
+    "6.Resources/프롬프트 엔지니어링 - 마스터 가이드.md",
+    "0.MOCs/AI 에이전트 MOC.md",
+    "2.Literature Notes/Reference/신용평가모델(CSS)의 발전과 미래.md",
+    "2.Literature Notes/Reference/국내 여신 시장 참고자료.md",
     "1.Inbox/README.md",
-    "5.Areas/README.md",
-    "7.Archive/README.md",
-    "9.Attachments/README.md",
-    "5.Areas/[영역] 디지털 마케팅 역량 개발.md",
-    "5.Areas/System/Dashboard - Weekly Review.md",
-    "5.Areas/System/Dashboard - Orphan Notes.md",
-    "5.Areas/System/Dashboard - Monthly Review.md",
-    "5.Areas/System/Dashboard - Archive Candidates.md",
-    "_tag_changes.md",
-    "_tag_validation.md",
-    "_tag_report_after.md",
-    "_tag_report.md",
+    "6.Resources/n8n 워크플로우 자동화 도구.md",
+    "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md",
+    "3.Permanent Notes/AI 감성분석 에이전트 - 자율적 분석가 모델.md",
+    "6.Resources/Prompt Chaining 기법.md",
+    "6.Resources/Multi-Modal 프롬프팅.md",
+    "6.Resources/Meta-Prompting.md",
+    "6.Resources/Directional Stimulus Prompting (DSP).md",
+    "6.Resources/Least-to-Most 프롬프팅.md",
+    "6.Resources/ReAct 프롬프팅.md",
+    "6.Resources/프롬프트 엔지니어링 기법 가이드.md",
+    "6.Resources/Self-Consistency 프롬프팅.md",
+    "6.Resources/Reflexion 프롬프팅.md",
+    "6.Resources/README.md",
+    "6.Resources/Generated Knowledge 프롬프팅.md",
+    "6.Resources/DSPy 프레임워크 가이드.md",
+    "6.Resources/프롬프트 엔지니어링 기법 가이드.md.tmp.73181.1758615936996",
+    "6.Resources/프롬프트 엔지니어링 기법 가이드.md.tmp.73181.1758615239050",
+    "7.Archive/4.projects/2025/공통",
+    "7.Archive/4.projects/2025/기업여신",
+    "7.Archive/4.projects/2025/마케팅",
+    "6.Resources/README.md.tmp.73181.1758543755734",
+    "CLAUDE.md.tmp.73181.1758541198664",
+    "CLAUDE.md.tmp.73181.1758541184532",
+    "CLAUDE.md.tmp.73181.1758541165367",
     "scripts/validate_tags.py",
-    "scripts/normalize_tags.py",
-    "scripts",
-    "_tag_mapping.json",
-    "3.Permanent Notes/MOCs/MOC - AI Development.md",
-    "3.Permanent Notes/MOCs/MOC - 금융AI RegTech.md",
-    "2.Literature Notes/README.md",
-    "3.Permanent Notes/MOCs/MOC - RegTech.md",
-    "3.Permanent Notes/MOCs/MOC - Prompt Engineering.md",
     "무제.canvas",
-    "frontmatter_duplicate_remover.py",
-    "6.Resources/AI 마케팅 에이전트/사양 및 설계/[마스터] 제품 요구사항 정의서 (PRD).md.tmp.64651.1758419340120",
-    "6.Resources/AI 마케팅 에이전트/가이드",
-    "6.Resources/AI 마케팅 에이전트/사양 및 설계",
-    "3.Permanent Notes/MOCs",
-    "5.Areas/System",
     "7.Archive/2.works/01.marketing/아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🤖 시스템 다이어그램.canvas",
     "7.Archive/2.works/01.marketing/아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🎯 광고 구조.canvas",
     "Pasted image 20250826134829.png",

@@ -22,5 +22,6 @@
   "cmdr",
   "slurp",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tagfolder"
 ]

@@ -7,7 +7,7 @@ updated: 2025-09-20
 
 # 🧰 8.Templates - 템플릿과 가이드
 
-이 폴더는 모든 노트 유형의 표준 템플릿과 작성 가이드를 모아 둔 공간입니다. [[Welcome.md]]에 설명된 9폴더 시스템과 함께 사용하세요.
+이 폴더는 모든 노트 유형의 표준 템플릿과 작성 가이드를 모아 둔 공간입니다. [[Welcome.md]]에 설명된 10폴더 시스템과 함께 사용하세요.
 
 ## 구성
 - 템플릿
@@ -17,6 +17,7 @@ updated: 2025-09-20
   - [[8.Templates/Project Note Template.md]]
   - [[8.Templates/Area Note Template.md]]
   - [[8.Templates/Resource Note Template.md]]
+  - [[8.Templates/MOC Note Template.md]]
 - 가이드
   - [[8.Templates/Inbox Guide.md]]
   - [[8.Templates/Literature Notes Guide.md]]
@@ -48,7 +49,7 @@ tags: # 관련 태그 목록
 status: # 노트의 현재 상태 (예: active, pending, done)
 date: # 노트 생성일 (YYYY-MM-DD)
 updated: # 노트 최종 수정일 (YYYY-MM-DD)
-# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+
 ---
 ```
 

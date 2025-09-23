@@ -1,32 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "다중 의도 프롬프트 엔지니어링",
-      "path": "3.Permanent Notes/다중 의도 프롬프트 엔지니어링.md"
+      "basename": "Active-Prompt 기법",
+      "path": "6.Resources/Active-Prompt 기법.md"
     },
     {
-      "basename": "마케팅 자동화 - 3단계 프로세스",
-      "path": "3.Permanent Notes/마케팅 자동화 - 3단계 프로세스.md"
+      "basename": "프롬프트 엔지니어링 - 마스터 가이드",
+      "path": "6.Resources/프롬프트 엔지니어링 - 마스터 가이드.md"
     },
     {
-      "basename": "AI 에이전트 마케팅 시스템 - 설계 원리",
-      "path": "3.Permanent Notes/AI 에이전트 마케팅 시스템 - 설계 원리.md"
+      "basename": "AI 에이전트 MOC",
+      "path": "0.MOCs/AI 에이전트 MOC.md"
     },
     {
-      "basename": "AI 프로젝트 성공 - 3요소 모델",
-      "path": "3.Permanent Notes/AI 프로젝트 성공 - 3요소 모델.md"
+      "basename": "신용평가모델(CSS)의 발전과 미래",
+      "path": "2.Literature Notes/Reference/신용평가모델(CSS)의 발전과 미래.md"
     },
     {
-      "basename": "Welcome",
-      "path": "Welcome.md"
+      "basename": "국내 여신 시장 참고자료",
+      "path": "2.Literature Notes/Reference/국내 여신 시장 참고자료.md"
     },
     {
       "basename": "README",
       "path": "1.Inbox/README.md"
     },
     {
+      "basename": "n8n 워크플로우 자동화 도구",
+      "path": "6.Resources/n8n 워크플로우 자동화 도구.md"
+    },
+    {
+      "basename": "AI 마케팅 생태계 - 통합 설계 원리",
+      "path": "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md"
+    },
+    {
+      "basename": "AI 감성분석 에이전트 - 자율적 분석가 모델",
+      "path": "3.Permanent Notes/AI 감성분석 에이전트 - 자율적 분석가 모델.md"
+    },
+    {
+      "basename": "Prompt Chaining 기법",
+      "path": "6.Resources/Prompt Chaining 기법.md"
+    },
+    {
+      "basename": "ReAct 프롬프팅",
+      "path": "6.Resources/ReAct 프롬프팅.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링 기법 가이드",
+      "path": "6.Resources/프롬프트 엔지니어링 기법 가이드.md"
+    },
+    {
+      "basename": "Self-Consistency 프롬프팅",
+      "path": "6.Resources/Self-Consistency 프롬프팅.md"
+    },
+    {
+      "basename": "Reflexion 프롬프팅",
+      "path": "6.Resources/Reflexion 프롬프팅.md"
+    },
+    {
       "basename": "README",
-      "path": "5.Areas/README.md"
+      "path": "6.Resources/README.md"
+    },
+    {
+      "basename": "Generated Knowledge 프롬프팅",
+      "path": "6.Resources/Generated Knowledge 프롬프팅.md"
+    },
+    {
+      "basename": "DSPy 프레임워크 가이드",
+      "path": "6.Resources/DSPy 프레임워크 가이드.md"
+    },
+    {
+      "basename": "Constitutional AI 프롬프팅",
+      "path": "6.Resources/Constitutional AI 프롬프팅.md"
+    },
+    {
+      "basename": "Chain-of-Thought (CoT) 프롬프팅",
+      "path": "6.Resources/Chain-of-Thought (CoT) 프롬프팅.md"
+    },
+    {
+      "basename": "AI 워크플로우 빌더 솔루션",
+      "path": "6.Resources/AI 워크플로우 빌더 솔루션.md"
+    },
+    {
+      "basename": "AI 프로젝트 성공 - 3요소 모델",
+      "path": "6.Resources/AI 프로젝트 성공 - 3요소 모델.md"
+    },
+    {
+      "basename": "기업여신 심사 및 평가 방법론",
+      "path": "6.Resources/기업여신 심사 및 평가 방법론.md"
+    },
+    {
+      "basename": "Google ADK",
+      "path": "6.Resources/Google ADK.md"
+    },
+    {
+      "basename": "Tree-of-Thoughts (ToT) 프롬프팅",
+      "path": "6.Resources/Tree-of-Thoughts (ToT) 프롬프팅.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Literature Notes/README.md"
+    },
+    {
+      "basename": "한국 금융 AI 혁신 - 신중한 혁신가 모델",
+      "path": "3.Permanent Notes/한국 금융 AI 혁신 - 신중한 혁신가 모델.md"
+    },
+    {
+      "basename": "다중 의도 프롬프트 엔지니어링",
+      "path": "3.Permanent Notes/다중 의도 프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "마케팅 프로젝트",
+      "path": "7.Archive/4.projects/2025/마케팅 프로젝트.md"
+    },
+    {
+      "basename": "기업여신 프로젝트",
+      "path": "7.Archive/4.projects/2025/기업여신 프로젝트.md"
+    },
+    {
+      "basename": "Area Note Template",
+      "path": "8.Templates/Area Note Template.md"
+    },
+    {
+      "basename": "마케팅 자동화 MOC",
+      "path": "0.MOCs/마케팅 자동화 MOC.md"
+    },
+    {
+      "basename": "README",
+      "path": "7.Archive/4.projects/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "3.Permanent Notes/README.md"
+    },
+    {
+      "basename": "Resources Guide",
+      "path": "8.Templates/Resources Guide.md"
+    },
+    {
+      "basename": "README",
+      "path": "7.Archive/5.areas/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "7.Archive/6.resources/README.md"
     },
     {
       "basename": "README",
@@ -34,159 +150,27 @@
     },
     {
       "basename": "README",
-      "path": "9.Attachments/README.md"
-    },
-    {
-      "basename": "[영역] 디지털 마케팅 역량 개발",
-      "path": "5.Areas/[영역] 디지털 마케팅 역량 개발.md"
-    },
-    {
-      "basename": "Dashboard - Weekly Review",
-      "path": "5.Areas/System/Dashboard - Weekly Review.md"
-    },
-    {
-      "basename": "Dashboard - Orphan Notes",
-      "path": "5.Areas/System/Dashboard - Orphan Notes.md"
-    },
-    {
-      "basename": "Dashboard - Monthly Review",
-      "path": "5.Areas/System/Dashboard - Monthly Review.md"
-    },
-    {
-      "basename": "Dashboard - Archive Candidates",
-      "path": "5.Areas/System/Dashboard - Archive Candidates.md"
+      "path": "8.Templates/README.md"
     },
     {
       "basename": "README",
-      "path": "2.Literature Notes/README.md"
-    },
-    {
-      "basename": "기업여신 AI - 모델 학습 및 검증 계획",
-      "path": "6.Resources/기업여신 분석/기업여신 AI - 모델 학습 및 검증 계획.md"
-    },
-    {
-      "basename": "기업여신 AI - 데이터 요구사항 및 수집 전략",
-      "path": "6.Resources/기업여신 분석/기업여신 AI - 데이터 요구사항 및 수집 전략.md"
-    },
-    {
-      "basename": "기업여신 심사 및 평가 방법론",
-      "path": "6.Resources/기업여신 분석/기업여신 심사 및 평가 방법론.md"
-    },
-    {
-      "basename": "국내 여신 시장 참고자료",
-      "path": "6.Resources/기업여신 분석/국내 여신 시장 참고자료.md"
-    },
-    {
-      "basename": "[마스터] 기술 아키텍처 명세서",
-      "path": "6.Resources/기업여신 분석/[마스터] 기술 아키텍처 명세서.md"
-    },
-    {
-      "basename": "[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서",
-      "path": "7.Archive/4.projects/2025/[기획안] AI 마케팅 자동화 플랫폼 - CO9MA 사업계획서.md"
-    },
-    {
-      "basename": "[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서",
-      "path": "7.Archive/4.projects/2025/[기획안] AI 기업여신 심사 자동화 - AICMS 사업계획서.md"
-    },
-    {
-      "basename": "Attachments Guide",
-      "path": "8.Templates/Attachments Guide.md"
-    },
-    {
-      "basename": "Areas Guide",
-      "path": "8.Templates/Areas Guide.md"
-    },
-    {
-      "basename": "Area Note Template",
-      "path": "8.Templates/Area Note Template.md"
+      "path": "9.Attachments/README.md"
     },
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
     },
     {
-      "basename": "주요 매체 매출 현황",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/주요 매체 매출 현황.md"
-    },
-    {
-      "basename": "여신 시스템 개요",
-      "path": "6.Resources/기업여신 분석/여신 시스템 개요.md"
-    },
-    {
-      "basename": "신용평가모델(CSS)의 발전과 미래",
-      "path": "6.Resources/기업여신 분석/신용평가모델(CSS)의 발전과 미래.md"
-    },
-    {
-      "basename": "n8n 워크플로우 자동화 도구",
-      "path": "6.Resources/AI 개발/n8n 워크플로우 자동화 도구.md"
-    },
-    {
-      "basename": "AI 워크플로우 빌더 솔루션 목록",
-      "path": "6.Resources/AI 개발/AI 워크플로우 빌더 솔루션 목록.md"
-    },
-    {
-      "basename": "Google ADK 모듈 분석",
-      "path": "6.Resources/AI 개발/Google ADK 모듈 분석.md"
-    },
-    {
-      "basename": "IBK 여신 관리 시스템",
-      "path": "6.Resources/기업여신 분석/IBK 여신 관리 시스템.md"
-    },
-    {
-      "basename": "LLM 컴파일러 - Join 프롬프트",
-      "path": "6.Resources/AI 개발/Prompt Engineering/Prompt/LLM 컴파일러 - Join 프롬프트.md"
-    },
-    {
-      "basename": "LLM 컴파일러 - 계획 수립 프롬프트",
-      "path": "6.Resources/AI 개발/Prompt Engineering/Prompt/LLM 컴파일러 - 계획 수립 프롬프트.md"
-    },
-    {
-      "basename": "마케팅 리서치 및 광고 라이브러리 링크",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/마케팅 리서치 및 광고 라이브러리 링크.md"
-    },
-    {
-      "basename": "국내 광고 대행 기업 현황",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/국내 광고 대행 기업 현황.md"
-    },
-    {
-      "basename": "국내 마케팅 현황",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/국내 마케팅 현황.md"
-    },
-    {
-      "basename": "Manus 에이전트 - 도구 명세",
-      "path": "6.Resources/AI 개발/Prompt Engineering/Prompt/Manus 에이전트 - 도구 명세.md"
-    },
-    {
-      "basename": "디지털 광고 유형별 매출 현황",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/디지털 광고 유형별 매출 현황.md"
-    },
-    {
-      "basename": "뉴미디어 광고 추이",
-      "path": "6.Resources/AI 마케팅 에이전트/시장 조사/뉴미디어 광고 추이.md"
-    },
-    {
-      "basename": "Fleeting Note Template",
-      "path": "8.Templates/Fleeting Note Template.md"
-    },
-    {
-      "basename": "Resource Note Template",
-      "path": "8.Templates/Resource Note Template.md"
-    },
-    {
-      "basename": "Project Note Template",
-      "path": "8.Templates/Project Note Template.md"
-    },
-    {
-      "basename": "Permanent Note Template",
-      "path": "8.Templates/Permanent Note Template.md"
-    },
-    {
-      "basename": "Literature Note Template",
-      "path": "8.Templates/Literature Note Template.md"
+      "basename": "Welcome",
+      "path": "Welcome.md"
     },
     {
       "basename": "README",
-      "path": "4.Projects/README.md"
+      "path": "5.Areas/README.md"
+    },
+    {
+      "basename": "Attachments Guide",
+      "path": "8.Templates/Attachments Guide.md"
     }
   ],
   "omittedPaths": [],

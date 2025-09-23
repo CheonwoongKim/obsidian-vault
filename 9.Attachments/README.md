@@ -103,23 +103,23 @@ updated: 2025-09-20
 
 ### Obsidian 문법
 ```markdown
-# 이미지 임베드
+
 ![[9.Attachments/2025/09-September/screenshot_login-ui_v1.png]]
 
-# 파일 링크
+
 [[9.Attachments/Documents/project-proposal_final.pdf]]
 
-# 크기 조정된 이미지
+
 ![[9.Attachments/Images/Diagrams/system-flow.png|400]]
 
-# 캡션이 있는 이미지
+
 ![[9.Attachments/Images/Screenshots/dashboard.png]]
 *그림 1: 메인 대시보드 화면*
 ```
 
 ### 상대 경로 활용
 ```markdown
-# 다른 폴더에서 참조 시
+
 ![[../9.Attachments/2025/09-September/meeting-notes.jpg]]
 ```
 
@@ -218,7 +218,7 @@ tags: # 관련 태그 목록
 status: # 노트의 현재 상태 (예: active, pending, done)
 date: # 노트 생성일 (YYYY-MM-DD)
 updated: # 노트 최종 수정일 (YYYY-MM-DD)
-# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+
 ---
 ```
 

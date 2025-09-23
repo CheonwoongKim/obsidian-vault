@@ -48,7 +48,7 @@ tags: # 관련 태그 목록
 status: # 노트의 현재 상태 (예: active, pending, done)
 date: # 노트 생성일 (YYYY-MM-DD)
 updated: # 노트 최종 수정일 (YYYY-MM-DD)
-# 기타 특정 노트 유형에만 해당하는 속성 (예: system_version)
+
 ---
 ```
 
