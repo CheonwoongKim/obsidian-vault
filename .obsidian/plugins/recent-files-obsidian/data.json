@@ -5,8 +5,108 @@
       "path": "6.Resources/Active-Prompt 기법.md"
     },
     {
+      "basename": "Zero-shot & Few-shot 프롬프팅",
+      "path": "6.Resources/Zero-shot & Few-shot 프롬프팅.md"
+    },
+    {
+      "basename": "Task Orchestrator 프롬프트",
+      "path": "6.Resources/Task Orchestrator 프롬프트.md"
+    },
+    {
+      "basename": "Automatic Prompt Engineer (APE) 프롬프팅",
+      "path": "6.Resources/Automatic Prompt Engineer (APE) 프롬프팅.md"
+    },
+    {
+      "basename": "Multi-Modal 프롬프팅",
+      "path": "6.Resources/Multi-Modal 프롬프팅.md"
+    },
+    {
+      "basename": "Meta-Prompting",
+      "path": "6.Resources/Meta-Prompting.md"
+    },
+    {
+      "basename": "Least-to-Most 프롬프팅",
+      "path": "6.Resources/Least-to-Most 프롬프팅.md"
+    },
+    {
+      "basename": "Graph Prompting",
+      "path": "6.Resources/Graph Prompting.md"
+    },
+    {
+      "basename": "Generated Knowledge 프롬프팅",
+      "path": "6.Resources/Generated Knowledge 프롬프팅.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링 기법 가이드",
+      "path": "6.Resources/프롬프트 엔지니어링 기법 가이드.md"
+    },
+    {
       "basename": "프롬프트 엔지니어링 - 마스터 가이드",
       "path": "6.Resources/프롬프트 엔지니어링 - 마스터 가이드.md"
+    },
+    {
+      "basename": "ReAct 프롬프팅",
+      "path": "6.Resources/ReAct 프롬프팅.md"
+    },
+    {
+      "basename": "기업여신 심사 및 평가 방법론",
+      "path": "6.Resources/기업여신 심사 및 평가 방법론.md"
+    },
+    {
+      "basename": "AI 워크플로우 빌더 솔루션",
+      "path": "6.Resources/AI 워크플로우 빌더 솔루션.md"
+    },
+    {
+      "basename": "AI 프로젝트 성공 - 3요소 모델",
+      "path": "6.Resources/AI 프로젝트 성공 - 3요소 모델.md"
+    },
+    {
+      "basename": "Automatic Reasoning and Tool-use (ART) 프롬프팅",
+      "path": "6.Resources/Automatic Reasoning and Tool-use (ART) 프롬프팅.md"
+    },
+    {
+      "basename": "Chain-of-Thought (CoT) 프롬프팅",
+      "path": "6.Resources/Chain-of-Thought (CoT) 프롬프팅.md"
+    },
+    {
+      "basename": "Constitutional AI 프롬프팅",
+      "path": "6.Resources/Constitutional AI 프롬프팅.md"
+    },
+    {
+      "basename": "Directional Stimulus Prompting (DSP)",
+      "path": "6.Resources/Directional Stimulus Prompting (DSP).md"
+    },
+    {
+      "basename": "DSPy 프레임워크 가이드",
+      "path": "6.Resources/DSPy 프레임워크 가이드.md"
+    },
+    {
+      "basename": "n8n 워크플로우 자동화 도구",
+      "path": "6.Resources/n8n 워크플로우 자동화 도구.md"
+    },
+    {
+      "basename": "Program-Aided Language Models (PAL) 프롬프팅",
+      "path": "6.Resources/Program-Aided Language Models (PAL) 프롬프팅.md"
+    },
+    {
+      "basename": "Prompt Chaining 기법",
+      "path": "6.Resources/Prompt Chaining 기법.md"
+    },
+    {
+      "basename": "README",
+      "path": "6.Resources/README.md"
+    },
+    {
+      "basename": "Reflexion 프롬프팅",
+      "path": "6.Resources/Reflexion 프롬프팅.md"
+    },
+    {
+      "basename": "Retrieval Augmented Generation (RAG) 프롬프팅",
+      "path": "6.Resources/Retrieval Augmented Generation (RAG) 프롬프팅.md"
+    },
+    {
+      "basename": "Self-Consistency 프롬프팅",
+      "path": "6.Resources/Self-Consistency 프롬프팅.md"
     },
     {
       "basename": "AI 에이전트 MOC",
@@ -25,10 +125,6 @@
       "path": "1.Inbox/README.md"
     },
     {
-      "basename": "n8n 워크플로우 자동화 도구",
-      "path": "6.Resources/n8n 워크플로우 자동화 도구.md"
-    },
-    {
       "basename": "AI 마케팅 생태계 - 통합 설계 원리",
       "path": "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md"
     },
@@ -37,64 +133,8 @@
       "path": "3.Permanent Notes/AI 감성분석 에이전트 - 자율적 분석가 모델.md"
     },
     {
-      "basename": "Prompt Chaining 기법",
-      "path": "6.Resources/Prompt Chaining 기법.md"
-    },
-    {
-      "basename": "ReAct 프롬프팅",
-      "path": "6.Resources/ReAct 프롬프팅.md"
-    },
-    {
-      "basename": "프롬프트 엔지니어링 기법 가이드",
-      "path": "6.Resources/프롬프트 엔지니어링 기법 가이드.md"
-    },
-    {
-      "basename": "Self-Consistency 프롬프팅",
-      "path": "6.Resources/Self-Consistency 프롬프팅.md"
-    },
-    {
-      "basename": "Reflexion 프롬프팅",
-      "path": "6.Resources/Reflexion 프롬프팅.md"
-    },
-    {
-      "basename": "README",
-      "path": "6.Resources/README.md"
-    },
-    {
-      "basename": "Generated Knowledge 프롬프팅",
-      "path": "6.Resources/Generated Knowledge 프롬프팅.md"
-    },
-    {
-      "basename": "DSPy 프레임워크 가이드",
-      "path": "6.Resources/DSPy 프레임워크 가이드.md"
-    },
-    {
-      "basename": "Constitutional AI 프롬프팅",
-      "path": "6.Resources/Constitutional AI 프롬프팅.md"
-    },
-    {
-      "basename": "Chain-of-Thought (CoT) 프롬프팅",
-      "path": "6.Resources/Chain-of-Thought (CoT) 프롬프팅.md"
-    },
-    {
-      "basename": "AI 워크플로우 빌더 솔루션",
-      "path": "6.Resources/AI 워크플로우 빌더 솔루션.md"
-    },
-    {
-      "basename": "AI 프로젝트 성공 - 3요소 모델",
-      "path": "6.Resources/AI 프로젝트 성공 - 3요소 모델.md"
-    },
-    {
-      "basename": "기업여신 심사 및 평가 방법론",
-      "path": "6.Resources/기업여신 심사 및 평가 방법론.md"
-    },
-    {
       "basename": "Google ADK",
       "path": "6.Resources/Google ADK.md"
-    },
-    {
-      "basename": "Tree-of-Thoughts (ToT) 프롬프팅",
-      "path": "6.Resources/Tree-of-Thoughts (ToT) 프롬프팅.md"
     },
     {
       "basename": "README",
@@ -155,22 +195,6 @@
     {
       "basename": "README",
       "path": "9.Attachments/README.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
-      "basename": "README",
-      "path": "5.Areas/README.md"
-    },
-    {
-      "basename": "Attachments Guide",
-      "path": "8.Templates/Attachments Guide.md"
     }
   ],
   "omittedPaths": [],

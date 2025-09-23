@@ -1,8 +1,8 @@
 ---
 title: "CLAUDE 시스템 가이드"
 type: resource
-version: v3.3
-updated: 2025-09-22
+version: v3.4
+updated: 2025-09-24
 ---
 
 # 시스템 가이드: CLAUDE AI 어시스턴트 작업 안내
