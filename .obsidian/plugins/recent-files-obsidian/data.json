@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "4.Projects/README.md"
+    },
+    {
       "basename": "에이전트 시스템 구현 방법론",
       "path": "2.Literature Notes/Reference/에이전트 시스템 구현 방법론.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법",
       "path": "6.Resources/[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법.md"
-    },
-    {
-      "basename": "simple_agent",
-      "path": "simple_agent.py"
     },
     {
       "basename": "다중 의도 프롬프트 엔지니어링",

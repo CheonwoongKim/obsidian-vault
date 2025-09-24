@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bd3b047b70a19d2",
+        "id": "62a1409eb7086adc",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7f49a56741d7e7",
+            "id": "03d2c434c3af9887",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -80,9 +80,19 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "363622914af4b863",
+        "type": "leaf",
+        "state": {
+          "type": "tagfolder-view",
+          "state": {},
+          "icon": "stacked-levels",
+          "title": "Tag Folder"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "2aa8e53073a0c7be",
@@ -148,6 +158,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "vscode-editor:Create Code File": false,
       "translate:Open translation view": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
@@ -163,8 +175,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb7f49a56741d7e7",
+  "active": "363622914af4b863",
   "lastOpenFiles": [
+    "4.Projects/README.md",
+    "AGENTS.md",
     "최신파일.md",
     "4.Projects",
     "무제.md",
