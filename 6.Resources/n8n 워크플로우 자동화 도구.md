@@ -1,6 +1,6 @@
 ---
 title: "n8n 워크플로우 자동화 도구"
-type: resource
+type: literature
 category: 도구/자동화
 tags: [tools, workflow, automation, open-source]
 status: active

@@ -5,6 +5,5 @@
   "readableLineLength": false,
   "attachmentFolderPath": "9.Attachments",
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "alwaysUpdateLinks": true
 }

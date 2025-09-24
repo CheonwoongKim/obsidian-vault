@@ -80,13 +80,13 @@ MyWorks/
 - **위치**: `7.Archive/4.projects/2025/[프로젝트] AI 마케팅 자동화 플랫폼 - 개발중.md`
 - **목적**: 캠페인 기획, 크리에이티브 생성, 실행 및 성과 분석을 포함하는 SaaS 기반 AI 마케팅 자동화 플랫폼
 - **상태**: 완료(보관)
-- **지원 자료**: `6.Resources/` 폴더에 상세 기획 및 시장 조사 자료 (v3.3 평면 구조)
+- **지원 자료**: `6.Resources/` 폴더에 상세 기획 및 시장 조사 자료 (v3.4 실용화 완료)
 
 #### AI 기업여신 심사 자동화
 - **위치**: `7.Archive/4.projects/2025/[프로젝트] AI 기업여신 심사 자동화 - 기획중.md`
 - **목적**: 생성형 AI를 활용한 여신승인신청서 및 심사의견서 초안 자동 생성 시스템
 - **상태**: 완료(보관)
-- **지원 자료**: `6.Resources/` 폴더에 심사 방법론 및 시장 분석 자료 (v3.3 평면 구조)
+- **지원 자료**: `6.Resources/` 폴더에 심사 방법론 및 시장 분석 자료 (v3.4 실용화 완료)
 
 ---
 
@@ -178,6 +178,15 @@ MyWorks/
  - [[3.Permanent Notes/MOCs/MOC - AI 마케팅.md|MOC - AI 마케팅]] / [[3.Permanent Notes/MOCs/MOC - 기업여신.md|MOC - 기업여신]] / [[3.Permanent Notes/MOCs/MOC - Prompt Engineering.md|MOC - Prompt Engineering]] / [[3.Permanent Notes/MOCs/MOC - RegTech.md|MOC - RegTech]]
  - [[8.Templates/Tags - Style Guide.md|Tags - Style Guide]]
 
+### 7.1.1. 핵심 프롬프팅 자료 (v3.4 실용화 완료)
+- [[6.Resources/프롬프트 엔지니어링 - 마스터 가이드.md|프롬프트 엔지니어링 - 마스터 가이드]]: 전체 기법 개요 및 학습 로드맵
+- **실용화 완료 기법 (즉시 활용 가능)**:
+  - [[6.Resources/Zero-shot & Few-shot 프롬프팅.md|Zero-shot & Few-shot 프롬프팅]]: 기본 프롬프팅의 실전 가이드
+  - [[6.Resources/Chain-of-Thought (CoT) 프롬프팅.md|Chain-of-Thought 프롬프팅]]: 단계별 추론의 실전 가이드
+  - [[6.Resources/Tree-of-Thoughts (ToT) 프롬프팅.md|Tree-of-Thoughts 프롬프팅]]: 다각도 창의적 문제해결 가이드
+  - [[6.Resources/Self-Consistency 프롬프팅.md|Self-Consistency 프롬프팅]]: 신뢰성 중요 의사결정 가이드
+- [[8.Templates/프롬프팅 기법 노트 템플릿.md|프롬프팅 기법 노트 템플릿]]: 향후 기법 추가 시 사용할 표준 템플릿
+
 ### 7.2. 시스템 구조
 - **폴더 가이드**: 각 번호가 매겨진 폴더(0-9)에는 사용법을 설명하는 README.md 파일이 포함되어 있습니다.
 - **템플릿**: `8.Templates/`에는 적절한 구조의 모든 노트 템플릿이 포함되어 있습니다.
@@ -232,6 +241,15 @@ MyWorks/
 - **모든 방법론 간의 시너지 효과**에서 마법이 일어납니다.
 
 ### 7.5. 2025년 업데이트 사항
+
+#### v3.4 (2025-09-24) - 프롬프팅 노트 실용화 완성
+- **프롬프팅 기법 실용화**: 핵심 4개 기법을 실제 프롬프트 생성 가이드로 대형 변환
+  - Zero-shot & Few-shot, Chain-of-Thought, Tree-of-Thoughts, Self-Consistency
+- **실전 중심 재작성**: 이론적 설명 → 실무 활용 가이드 (언제/어떻게/예시 중심)
+- **템플릿화**: 업무 영역별(마케팅/개발/콘텐츠/업무) 즉시 사용 가능한 프롬프트 템플릿 제공
+- **Before/After 비교**: 일반 프롬프트 vs 기법 적용 프롬프트의 실제 효과 비교
+- **성과 측정**: 정량적 개선 지표와 추적 방법론 포함
+- **프롬프팅 기법 노트 템플릿**: 향후 추가 기법 작성을 위한 표준 템플릿 완성
 
 #### v3.3 (2025-09-22) - 6.Resources 구조 개편 및 시스템 완성
 - **6.Resources 평면화**: 복잡한 3단계 하위 폴더 구조를 평면 구조로 전환
