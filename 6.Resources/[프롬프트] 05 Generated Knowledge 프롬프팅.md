@@ -2,7 +2,7 @@
 title: "Generated Knowledge 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, generated_knowledge, knowledge_augmentation, two_stage]
+tags: [프롬프트기법, 지식확장, 창작지원, 성능향상, 자동화]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

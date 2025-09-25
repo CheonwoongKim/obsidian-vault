@@ -2,7 +2,7 @@
 title: "Constitutional AI 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, constitutional_ai, safety, ethics, anthropic]
+tags: [프롬프트기법, 안전성, 윤리적ai, 신뢰성, 성능향상]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

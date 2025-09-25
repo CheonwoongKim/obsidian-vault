@@ -2,7 +2,7 @@
 title: "Task Orchestrator 프롬프트"
 type: resource
 category: 프롬프트 엔지니어링/시스템 및 구조화 기법
-tags: [prompt_engineering, task_orchestration, parallel_processing, sequential_processing, dependency_analysis]
+tags: [프롬프트기법, 작업관리, 워크플로우, 자동화, 복잡작업]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

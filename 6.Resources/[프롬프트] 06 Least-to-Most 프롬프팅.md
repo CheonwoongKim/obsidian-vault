@@ -2,7 +2,7 @@
 title: "Least-to-Most 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, least_to_most, problem_solving, decomposition]
+tags: [프롬프트기법, 문제해결, 단계별접근, 성능향상, 논리적추론]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

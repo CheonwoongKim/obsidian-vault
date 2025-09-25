@@ -2,7 +2,7 @@
 title: "Self-Consistency 프롬프팅 - 실전 가이드"
 type: resource
 category: 프롬프트 엔지니어링/실전 가이드
-tags: [prompt_engineering, self_consistency, multi_path_reasoning, reliability, practical_guide]
+tags: [프롬프트기법, 정확성, 신뢰성, 의사결정, 논리적추론]
 status: active
 date: 2025-09-24
 updated: 2025-09-24

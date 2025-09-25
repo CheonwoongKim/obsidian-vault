@@ -2,7 +2,7 @@
 title: "Active-Prompt 기법"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, active_prompt, uncertainty_sampling, adaptive_learning]
+tags: [프롬프트기법, 적응형학습, 성능향상, 자동화, 지능형선택]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

@@ -2,7 +2,7 @@
 title: "ReAct 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, react, reasoning_acting, agent_framework]
+tags: [프롬프트기법, ai에이전트, 자동화, 문제해결, 도구활용]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

@@ -2,7 +2,7 @@
 title: "Graph Prompting"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, graph_prompting, knowledge_graph, structured_data]
+tags: [프롬프트기법, 그래프활용, 지식그래프, 구조화분석, 관계분석]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

@@ -2,7 +2,7 @@
 title: "Program-Aided Language Models (PAL) 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, pal, program_synthesis, code_generation]
+tags: [프롬프트기법, 코드생성, 프로그램합성, 자동화, 개발지원]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

@@ -2,7 +2,7 @@
 title: "Multi-Modal 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/시스템 및 구조화 기법
-tags: [prompt_engineering, multi_modal, image, text, code]
+tags: [프롬프트기법, 멀티모달, 이미지분석, 통합처리, chatgpt활용]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

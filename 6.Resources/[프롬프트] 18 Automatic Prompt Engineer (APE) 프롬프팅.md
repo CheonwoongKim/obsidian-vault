@@ -2,7 +2,7 @@
 title: "Automatic Prompt Engineer (APE) 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, ape, prompt_optimization, automation]
+tags: [프롬프트기법, 자동최적화, 성능향상, 자동화, 프롬프트엔지니어링]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

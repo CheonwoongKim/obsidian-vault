@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.Resources/[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법.md",
+                "file": "4.Projects/기업여신 프로젝트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법"
+              "title": "기업여신 프로젝트"
             }
           }
         ]
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 244.5
   },
   "right": {
     "id": "ca774989e8565ce4",
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.Resources/[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법.md",
+                "file": "4.Projects/기업여신 프로젝트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법 의 개요"
+              "title": "기업여신 프로젝트 의 개요"
             }
           },
           {
@@ -260,43 +260,43 @@
   },
   "active": "4b4ba688c9812787",
   "lastOpenFiles": [
-    "Welcome.md",
-    "GEMINI.md",
+    "4.Projects/기업여신 프로젝트.md.tmp.61668.1758790313122",
     "CLAUDE.md",
+    "4.Projects/기업여신 프로젝트.md",
     "AGENTS.md",
-    "2.Literature Notes/Reference/에이전트 시스템 구현 방법론.md",
-    "2.Literature Notes/Reference/다중 의도 프롬프트 엔지니어링.md",
-    "2.Literature Notes/Reference/감성분석 프롬프트 엔지니어링.md",
-    "0.MOCs/MOC - 프롬프트 엔지니어링.md",
-    "6.Resources/[프레임워크] LangChain 완전 가이드 - 설치와 활용법.md",
-    "6.Resources/[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법.md",
+    "4.Projects/README.md",
+    "6.Resources/[방법론] 린 UX.md",
+    "6.Resources/[방법론] 디자인 스프린트.md",
+    "6.Resources/[방법론] 디자인 씽킹.md",
+    "6.Resources/[방법론] 디자인 방법론 가이드.md",
+    "6.Resources/[방법론] 더블 다이아몬드.md",
+    "6.Resources/[데이터] 인텔리전스.md",
+    "6.Resources/[방법론] 디자인 스프린트.md.tmp.54660.1758764356306",
+    "6.Resources/[프롬프트] LLM 컴파일러.md",
+    "6.Resources/[프롬프트] 19 Task Orchestrator 프롬프트.md",
+    "6.Resources/[RAG] 01 문서 파싱.md",
+    "6.Resources/[프롬프트] 98 마스터 가이드.md",
+    "6.Resources/[주제] 데이터 인텔리전스.md",
+    "6.Resources/데이터 인텔리전스.md",
+    "6.Resources/[프롬프트] 02 Chain-of-Thought (CoT) 프롬프팅.md",
+    "9.Attachments/data-intelligence-platform-for-dummies-kr.pdf",
+    "6.Resources/[프레임워크] AgentScope.md",
+    "6.Resources/[솔루션] AI 워크플로우 빌더 벤치마킹.md",
+    "6.Resources/[벤치마킹] AI 워크플로우 빌더.md",
+    "6.Resources/[솔루션] n8n 워크플로우.md",
+    "6.Resources/[RAG] 05 평가 및 모니터링.md",
+    "6.Resources/[RAG] 04 리트리버 최적화.md",
+    "6.Resources/[RAG] 03 임베딩 최적화.md",
+    "6.Resources/[RAG] 02 청킹 전략.md",
+    "1.Inbox/Untitled 2.base",
+    "1.Inbox/Untitled 1.base",
+    "1.Inbox/Untitled.base",
     "simple_agent.py",
     "__pycache__/simple_agent.cpython-312.pyc",
     "__pycache__",
     "langgraph_env/bin/langgraph-verify-graphs",
     "langgraph_env/lib/python3.12/site-packages/langgraph_api/__pycache__/worker.cpython-312.pyc",
-    "langgraph_env/lib/python3.12/site-packages/langgraph_api/__pycache__/webhook.cpython-312.pyc",
-    "langgraph_env/lib/python3.12/site-packages/langgraph_api/__pycache__/validation.cpython-312.pyc",
-    "langgraph_env/lib/python3.12/site-packages/langgraph_api/utils/__pycache__/uuids.cpython-312.pyc",
-    "langgraph_env/lib/python3.12/site-packages/langgraph_api/utils/__pycache__/stream_codec.cpython-312.pyc",
-    "langgraph_env/lib/python3.12/site-packages/langgraph_api/utils/__pycache__/retriable_client.cpython-312.pyc",
     "langgraph_env/lib/python3.12/site-packages/langsmith/evaluation/integrations/test.excalidraw.png",
-    "langgraph_env/lib/python3.12/site-packages/langsmith/cli/README.md",
-    "langgraph_env/lib/python3.12/site-packages/starlette-0.48.0.dist-info/licenses/LICENSE.md",
-    "langgraph_env/lib/python3.12/site-packages/uvicorn-0.37.0.dist-info/licenses/LICENSE.md",
-    "langgraph_env/lib/python3.12/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
-    "langgraph_env/lib/python3.12/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
-    "langgraph_env/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "2.Literature Notes/README.md",
-    "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md",
-    "3.Permanent Notes/README.md",
-    "3.Permanent Notes/국내 여신 시장 참고자료.md",
-    "3.Permanent Notes/한국 금융 AI 혁신 - 신중한 혁신가 모델.md",
-    "0.MOCs/MOC - AI.md",
-    "0.MOCs/마케팅 자동화 MOC.md",
-    "0.MOCs/AI 관련 Resources MOC.md",
-    "0.MOCs/AI 에이전트 MOC.md",
-    "1.Inbox/AI 에이전트 마케팅 시스템 - 설계 원리.md",
     "무제.canvas",
     "7.Archive/2.works/01.marketing/아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🤖 시스템 다이어그램.canvas",
     "7.Archive/2.works/01.marketing/아카이브/🚩 프로젝트/🎨 마케팅 AI Agentic Ssystem/🏹 참고/🎯 광고 구조.canvas",

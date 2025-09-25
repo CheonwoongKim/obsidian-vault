@@ -2,7 +2,7 @@
 title: "Chain-of-Thought (CoT) 프롬프팅 - 실전 가이드"
 type: resource
 category: 프롬프트 엔지니어링/실전 가이드
-tags: [prompt_engineering, chain_of_thought, cot, reasoning, practical_guide]
+tags: [프롬프트기법, 단계별사고, 논리적추론, chatgpt활용, 성능향상]
 status: active
 date: 2025-09-24
 updated: 2025-09-24

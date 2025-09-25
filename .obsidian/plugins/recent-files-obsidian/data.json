@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "기업여신 프로젝트",
+      "path": "4.Projects/기업여신 프로젝트.md"
+    },
+    {
       "basename": "README",
       "path": "4.Projects/README.md"
     },
     {
+      "basename": "[방법론] 린 UX",
+      "path": "6.Resources/[방법론] 린 UX.md"
+    },
+    {
+      "basename": "[방법론] 디자인 스프린트",
+      "path": "6.Resources/[방법론] 디자인 스프린트.md"
+    },
+    {
+      "basename": "[방법론] 디자인 씽킹",
+      "path": "6.Resources/[방법론] 디자인 씽킹.md"
+    },
+    {
+      "basename": "[방법론] 디자인 방법론 가이드",
+      "path": "6.Resources/[방법론] 디자인 방법론 가이드.md"
+    },
+    {
+      "basename": "[방법론] 더블 다이아몬드",
+      "path": "6.Resources/[방법론] 더블 다이아몬드.md"
+    },
+    {
+      "basename": "[데이터] 인텔리전스",
+      "path": "6.Resources/[데이터] 인텔리전스.md"
+    },
+    {
+      "basename": "[프롬프트] LLM 컴파일러",
+      "path": "6.Resources/[프롬프트] LLM 컴파일러.md"
+    },
+    {
+      "basename": "[프롬프트] 19 Task Orchestrator 프롬프트",
+      "path": "6.Resources/[프롬프트] 19 Task Orchestrator 프롬프트.md"
+    },
+    {
+      "basename": "[RAG] 01 문서 파싱",
+      "path": "6.Resources/[RAG] 01 문서 파싱.md"
+    },
+    {
+      "basename": "[프롬프트] 02 Chain-of-Thought (CoT) 프롬프팅",
+      "path": "6.Resources/[프롬프트] 02 Chain-of-Thought (CoT) 프롬프팅.md"
+    },
+    {
+      "basename": "[프레임워크] AgentScope",
+      "path": "6.Resources/[프레임워크] AgentScope.md"
+    },
+    {
       "basename": "에이전트 시스템 구현 방법론",
       "path": "2.Literature Notes/Reference/에이전트 시스템 구현 방법론.md"
-    },
-    {
-      "basename": "[프레임워크] LangChain 완전 가이드 - 설치와 활용법",
-      "path": "6.Resources/[프레임워크] LangChain 완전 가이드 - 설치와 활용법.md"
-    },
-    {
-      "basename": "[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법",
-      "path": "6.Resources/[프레임워크] LangGraph Studio 완전 가이드 - 설치와 사용법.md"
     },
     {
       "basename": "다중 의도 프롬프트 엔지니어링",
@@ -25,16 +65,8 @@
       "path": "2.Literature Notes/Reference/감성분석 프롬프트 엔지니어링.md"
     },
     {
-      "basename": "README",
-      "path": "2.Literature Notes/README.md"
-    },
-    {
-      "basename": "AI 마케팅 생태계 - 통합 설계 원리",
-      "path": "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md"
-    },
-    {
-      "basename": "README",
-      "path": "3.Permanent Notes/README.md"
+      "basename": "[프롬프트] 01 Zero-shot & Few-shot 프롬프팅",
+      "path": "6.Resources/[프롬프트] 01 Zero-shot & Few-shot 프롬프팅.md"
     },
     {
       "basename": "국내 여신 시장 참고자료",
@@ -43,6 +75,42 @@
     {
       "basename": "한국 금융 AI 혁신 - 신중한 혁신가 모델",
       "path": "3.Permanent Notes/한국 금융 AI 혁신 - 신중한 혁신가 모델.md"
+    },
+    {
+      "basename": "AI 마케팅 생태계 - 통합 설계 원리",
+      "path": "3.Permanent Notes/AI 마케팅 생태계 - 통합 설계 원리.md"
+    },
+    {
+      "basename": "2025-09-24",
+      "path": "1.Inbox/2025-09-24.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "1.Inbox/Untitled 2.base"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "1.Inbox/Untitled 1.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "1.Inbox/Untitled.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "1.Inbox/Untitled.base"
+    },
+    {
+      "basename": "[프롬프트] 08 Reflexion 프롬프팅",
+      "path": "6.Resources/[프롬프트] 08 Reflexion 프롬프팅.md"
+    },
+    {
+      "basename": "README",
+      "path": "2.Literature Notes/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "3.Permanent Notes/README.md"
     },
     {
       "basename": "MOC - 프롬프트 엔지니어링",
@@ -65,40 +133,12 @@
       "path": "8.Templates/Area Note Template.md"
     },
     {
-      "basename": "CLAUDE",
-      "path": "CLAUDE.md"
-    },
-    {
       "basename": "GEMINI",
       "path": "GEMINI.md"
     },
     {
-      "basename": "n8n 워크플로우 자동화 도구",
-      "path": "6.Resources/n8n 워크플로우 자동화 도구.md"
-    },
-    {
-      "basename": "DSPy 프레임워크 가이드",
-      "path": "6.Resources/DSPy 프레임워크 가이드.md"
-    },
-    {
-      "basename": "Google ADK",
-      "path": "6.Resources/Google ADK.md"
-    },
-    {
       "basename": "AI 프로젝트 성공 - 3요소 모델",
       "path": "6.Resources/AI 프로젝트 성공 - 3요소 모델.md"
-    },
-    {
-      "basename": "AI 워크플로우 빌더 솔루션",
-      "path": "6.Resources/AI 워크플로우 빌더 솔루션.md"
-    },
-    {
-      "basename": "기업여신 심사 및 평가 방법론",
-      "path": "6.Resources/기업여신 심사 및 평가 방법론.md"
-    },
-    {
-      "basename": "[프롬프트] 01 Zero-shot & Few-shot 프롬프팅",
-      "path": "6.Resources/[프롬프트] 01 Zero-shot & Few-shot 프롬프팅.md"
     },
     {
       "basename": "[프롬프트] 99 프롬프트 엔지니어링 기법 가이드",
@@ -117,10 +157,6 @@
       "path": "7.Archive/4.projects/2025/마케팅 프로젝트.md"
     },
     {
-      "basename": "기업여신 프로젝트",
-      "path": "7.Archive/4.projects/2025/기업여신 프로젝트.md"
-    },
-    {
       "basename": "README",
       "path": "7.Archive/4.projects/README.md"
     },
@@ -135,18 +171,6 @@
     {
       "basename": "README",
       "path": "7.Archive/6.resources/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "7.Archive/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "8.Templates/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "9.Attachments/README.md"
     }
   ],
   "omittedPaths": [],

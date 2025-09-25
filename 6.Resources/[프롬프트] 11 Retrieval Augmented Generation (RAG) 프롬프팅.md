@@ -2,7 +2,7 @@
 title: "Retrieval Augmented Generation (RAG) 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, rag, knowledge_retrieval, external_knowledge]
+tags: [프롬프트기법, rag, 지식검색, 문서활용, 정확성향상]
 status: active
 date: 2025-09-23
 updated: 2025-09-23
@@ -16,6 +16,24 @@ source: "프롬프트 엔지니어링 기법 종합 정리"
 | **유형** | 외부 지식 활용 생성 기법 |
 | **적용 분야** | 사실 기반 질의응답, 최신 정보 활용, 환각 감소 |
 | **난이도** | 중급 |
+
+---
+
+## 🔗 관련 가이드
+
+### RAG 시스템 전체 가이드 시리즈
+1. **[[[RAG] 01 문서 파싱(Document Parsing) 완전 가이드]]** - 문서 전처리 및 파싱 기법
+2. **[[[RAG] 02 청킹(Chunking) 전략 가이드]]** - 효과적인 문서 분할 방법론
+3. **[[[RAG] 03 임베딩(Embedding) 최적화 가이드]]** - 벡터 임베딩 모델 선택 및 튜닝
+4. **[[[RAG] 04 리트리버(Retriever) 최적화 가이드]]** - 검색 시스템 성능 개선
+5. **[프롬프트] 11 Retrieval Augmented Generation (RAG) 프롬프팅** ← **현재 가이드**
+6. **[[[RAG] 05 평가 및 모니터링 가이드]]** - RAG 성능 측정 및 운영 모니터링
+
+### 추가 참고 가이드
+- **[[프롬프트 엔지니어링 - 마스터 가이드]]** - 전체 프롬프팅 기법 개요
+- **[[LangChain 완전 가이드 - 설치와 활용법]]** - RAG 구현 프레임워크
+- **[[LlamaIndex 완전 가이드 - RAG와 데이터 연결]]** - RAG 특화 프레임워크
+- **[[Haystack 완전 가이드 - RAG 및 검색 시스템]]** - 엔터프라이즈 RAG 솔루션
 
 ---
 

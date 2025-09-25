@@ -2,7 +2,7 @@
 title: "Zero-shot & Few-shot 프롬프팅 - 실전 가이드"
 type: resource
 category: 프롬프트 엔지니어링/실전 가이드
-tags: [prompt_engineering, zero_shot, few_shot, practical_guide, basic_techniques]
+tags: [프롬프트기법, chatgpt활용, 성능향상, 기본기법, 예시활용]
 status: active
 date: 2025-09-24
 updated: 2025-09-24

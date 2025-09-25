@@ -2,7 +2,7 @@
 title: "Prompt Chaining 기법"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, prompt_chaining, sequential_processing, workflow]
+tags: [프롬프트기법, 연속처리, 워크플로우, 자동화, 복잡작업]
 status: active
 date: 2025-09-23
 updated: 2025-09-23

@@ -2,7 +2,7 @@
 title: "Reflexion 프롬프팅"
 type: resource
 category: 프롬프트 엔지니어링/고급 기법
-tags: [prompt_engineering, reflexion, self_reflection, reinforcement_learning, agent_learning]
+tags: [프롬프트기법, 자기성찰, ai에이전트, 성능향상, 학습개선]
 status: active
 date: 2025-09-23
 updated: 2025-09-23
